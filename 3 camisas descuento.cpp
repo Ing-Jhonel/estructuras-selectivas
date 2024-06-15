@@ -15,10 +15,11 @@ int main (){
 	cout << "¿Las " << camisas << " camisas cuestan lo mismo?(si/no): "; 
 	cin >> respuesta;
 	cout << endl;
-	if(respuesta == "si" || respuesta == "no"){
-		do{
-			cout << "Indique si"
-		}
+	while (respuesta != "si" && respuesta != "no"){
+			cout << "No valido. Indique si o no. " << endl;
+			cout << "¿Las " << camisas << " camisas cuestan lo mismo?(si/no): "; 
+			cin >> respuesta;
+			cout << endl;
 	}
 	if(respuesta == "si"){
 		cout << "Indique el costo de una camisa: ";
@@ -33,8 +34,7 @@ int main (){
 		}
 	} 
 	cout << endl;
-	cout << "El valor inicial de todo es: " << valor_compra;
-	cout << endl;
+	cout << "El valor inicial de todo es: " << valor_compra << endl;
 	if (camisas >= 3){
 		porcentaje = 0.2;
 	} else {
