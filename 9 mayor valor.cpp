@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 // Calcular el mayor valor de 3 números
-
 //ENTRADA: n1: primer numero n2: segundo numero n3: tercer numero
 //SALIDA|| n1, n2 o n3: mayor numero
 
