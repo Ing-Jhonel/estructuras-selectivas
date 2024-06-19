@@ -1,0 +1,120 @@
+[33mcommit cffacd7a98f0a65c83a209d98c750a25d9ba39be[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Wed Jun 19 09:30:32 2024 -0500
+
+    Dia 7: agregue ejercicio 13 triangulos lados
+
+[33mcommit c61bda6c1107febd9e5a075eed28ad38ce85c132[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Wed Jun 19 09:27:18 2024 -0500
+
+    7.1 modificacion: mejores interfaz y codigo || Dia 6: agregue ejercicio 11 q r s
+
+[33mcommit 0a3c930025bb31bed9eac81bd7be959be577a1cb[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Tue Jun 18 11:00:31 2024 -0500
+
+    5.1 moficacion: especifique problema || Dia 5: agregue ejercio 9 mayor valor
+
+[33mcommit 434286b12b241ba2b51fa7d791e862c53247a25c[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Tue Jun 18 10:58:52 2024 -0500
+
+    Dia 6: agregue ejercicio 11 q r s
+
+[33mcommit 529be1e1b08154eb56ef28bcc0a23a2f9ece3ca3[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Tue Jun 18 10:56:12 2024 -0500
+
+    Dia 6: agregue ejerccio 9 mayor valor
+
+[33mcommit a7328dcf6763b1dcef3cfc63a6f7cef1e718918c[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Mon Jun 17 11:11:14 2024 -0500
+
+    Dia 5: agregue 9 mayor valor
+
+[33mcommit 9ae2ee869c143a230b567b22c26553c9acf4039c[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Mon Jun 17 11:10:35 2024 -0500
+
+    4.1 modificacion: especifique y simplifique el problema || Dia 4: agregue ejercicio 7 llantas
+
+[33mcommit 1cfa04a2cb26d37a4fbdfd0be7790817499205a4[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Sun Jun 16 09:55:04 2024 -0500
+
+    Dia 4: agregue ejercicio 7 llantas
+
+[33mcommit 0541037425b46898a4ca1213679f9e6b9ae9469a[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Sun Jun 16 09:53:59 2024 -0500
+
+    3 modificacion: agregue condiciones al sexo || Dia 3: agregue ejercicio 5 num pulsaciones
+
+[33mcommit 2f9e85aa7bbf26cc32057225985035fa2ead072e[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Sat Jun 15 09:44:20 2024 -0500
+
+    2 modificacion: agregue especificaciones a la compra || Dia 2: agregue ejercicio 3 camisas descuento
+
+[33mcommit 66509eb2845ff8f5282e868a1fd3a9d0cde2bf5b[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Sat Jun 15 09:35:16 2024 -0500
+
+    Dia 3: Agregue ejercicio 5 num pulsaciones
+
+[33mcommit ff6da947a88a5974a7a2597aeb6b5e74db048fbb[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Fri Jun 14 17:54:59 2024 -0500
+
+    2 modificacion: condicione que la nota debe ser positiva || Dia 1: agregue ejercicio 1 calificaciones
+
+[33mcommit 529b5a3fa9d01f919c5c16cc0378304fb517aabc[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Fri Jun 14 16:53:57 2024 -0500
+
+    Agregar .gitignore para excluir archivos .exe
+
+[33mcommit 3ebf204abfb2dc24a0416811817e3023ae8d9a17[m
+Merge: df8de77 e478e85
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Fri Jun 14 09:18:40 2024 -0500
+
+    Merge branch 'main' of https://github.com/Ing-Jhonel/estructuras-selectivas
+
+[33mcommit df8de775e1ea77cff42722f348e374427319b00f[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Fri Jun 14 09:17:42 2024 -0500
+
+    Dia 2: agregar ejercicio 3 camisas descuento
+
+[33mcommit e478e8567b11bbb33b77d5af9452339355961e5b[m
+Author: Ing-Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Fri Jun 14 09:06:11 2024 -0500
+
+    Delete 1 calificaciones.exe
+
+[33mcommit bf5bcec96f97211696a9fc3af9db9c5b4dde795d[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Thu Jun 13 22:28:17 2024 -0500
+
+    Agregar .gitignore para excluir archivos .exe
+
+[33mcommit 5342c82391064003ba2b7aee2a8a49ad40e8e6e5[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Thu Jun 13 22:25:14 2024 -0500
+
+    1 modificacion: expecificacion del problema a resolver | Dia 1: Agregar ejercicio 1 calificaciones
+
+[33mcommit 37f8b8217a75cc980032c8a732aaff7e2ddd9430[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Thu Jun 13 13:06:36 2024 -0500
+
+    Dia 1: Agregar ejercicio 1 calificaciones
+
+[33mcommit fad3a66653104fc37d2bad3c8a6980772f681ad3[m
+Author: Jhonel <jgapazap@unjbg.edu.pe>
+Date:   Thu Jun 13 13:04:34 2024 -0500
+
+    first commit
