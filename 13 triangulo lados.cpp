@@ -1,7 +1,9 @@
 #include <iostream>
-
 using namespace std;
-
+// Dados 3 longitudes diga si pueden formar un triangulo. Recuerde “En todo triangulo, cada
+// lado es menor que la suma de los otros dos, pero mayor que su diferencia”
+//ENTRADA|| a: lado 1 b: lado 2  c: lado 3
+//SALIDA|| "Las longitudes pueden formar un triángulo."  o  "Las longitudes no pueden formar un triángulo."
 int main() {
 	
     double a, b, c;
